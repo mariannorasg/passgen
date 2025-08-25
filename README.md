@@ -3,7 +3,8 @@
 Generador de contraseñas seguras en Python.  
 Crea contraseñas aleatorias con letras, números y símbolos, y las guarda en un archivo de texto.
 
-! Posibles mejoras: Migrar a "secret" en lugar de "random" para tener mas seguridad a la hora de ocultar la contraseña.
+# Posibles mejoras
+Migrar a "secret" en lugar de "random" para tener mas seguridad a la hora de ocultar la contraseña.
 
 ## Uso
 1. Clonar el repositorio
